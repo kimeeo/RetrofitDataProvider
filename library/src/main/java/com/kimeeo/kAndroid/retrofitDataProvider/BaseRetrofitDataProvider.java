@@ -1,8 +1,8 @@
 package com.kimeeo.kAndroid.retrofitDataProvider;
 
 
-import com.kimeeo.kAndroid.listViews.dataProvider.BackgroundDataProvider;
-import com.kimeeo.kAndroid.listViews.dataProvider.DataModel;
+import com.kimeeo.kAndroid.dataProvider.BackgroundDataProvider;
+import com.kimeeo.kAndroid.dataProvider.DataModel;
 
 import retrofit2.Call;
 import retrofit2.Callback;
